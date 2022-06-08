@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#407BFF</color>
+    <color name="colorPrimaryLight">#5688FA</color>
+    <color name="colorPrimaryDark">#CB202D</color>
+    <color name="orange">#EE7620</color>
+    <color name="red">#CB202D</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="blackShade200">#B4000000</color>
+    <color name="notifications_reminder">#FEFBDA</color>
+    <color name="darkGreen">#749A7F</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="gradientBlueColor">#43407BFF</color>
+    <color name="gradientBlueShadeColor">#75407BFF</color>
+    <color name="gradientPinkShadeColor">#70E56574</color>
+    <color name="gradientRedShadeColor">#7CE83638</color>
+    <color name="gradientRedShade200">#B4E83638</color>
+    <color name="gradientRedShade400">#D5E83638</color>
+    <color name="gradientBlueShade200">#95407BFF</color>
+
+
+    <color name="blueShade100">#BFDEE9</color>
+    <color name="blueShade500">#8D407BFF</color>
+    <color name="orangeShade500">#80EE7620</color>
+    <color name="greenShade500">#8070E696</color>
+    <color name="purpleShade500">#806200EE</color>
+    <color name="pinkShade100">#F3DCDA</color>
+    <color name="greenShade100">#C7EAD2</color>
+    <color name="purpleShade100">#DDD3F1</color>
+    <color name="orangeShade100">#F4D9C8</color>
+
+    <color name="appBgColor">#FAFAFA</color>
+    <color name="gray">#DFDDDD</color>
+    <color name="gray200">#F2F2F2</color>
+    <color name="darkGray">#929191</color>
+
+    <color name="colorOverlay">#78ffffff</color>
+
+    <array name="array_dot_active">
+        <item>@color/colorPrimary</item>
+        <item>@color/red</item>
+        <item>@color/orange</item>
+    </array>
+
+
+    <array name="array_dot_inactive">
+        <item>@color/darkGray</item>
+        <item>@color/darkGray</item>
+        <item>@color/darkGray</item>
+    </array>
+
+</resources>

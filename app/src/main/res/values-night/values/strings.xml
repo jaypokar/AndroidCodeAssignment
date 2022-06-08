@@ -1,0 +1,139 @@
+<resources>
+    <string name="app_name">Qoloni</string>
+
+    <!--<string name="intro_screen_one_header">
+        <br>Stay connected \n</br>
+        <br>to your House \n</br>
+        <br>and Society</br></string>-->
+
+    <string name="intro_screen_one_header">Community access to like minded active folks you neighborhood!</string>
+
+    <string name="intro_screen_one_subTitle">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English.</string>
+
+    <!--<string name="intro_screen_two_header">
+        <br>All maintenance \n</br>
+        <br>Payment with \n</br>
+        <br>one click</br></string>-->
+
+    <string name="intro_screen_two_header">Radar setting for relevant search and fast team building controls!</string>
+
+    <string name="intro_screen_two_subTitle">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English.</string>
+
+    <string name="intro_screen_three_header">Radar setting for relevant search and fast team building controls!</string>
+
+    <string name="intro_screen_three_subTitle">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English.</string>
+
+    <string name="navigation_drawer_open">Click the help button and people can help who are near by.</string>
+    <string name="navigation_drawer_close">Click the help button and people can help who are near by.</string>
+
+    <string name="text">
+        Click the help button and people can help who are near by.
+        Click the help button and people can help who are near by.
+        Click the help button and people can help who are near by.
+        Click the help button and people can help who are near by.
+        Click the help button and people can help who are near by.
+        Click the help button and people can help who are near by.
+        Click the help button and people can help who are near by.
+        Click the help button and people can help who are near by.
+        Click the help button and people can help who are near by.
+        Click the help button and people can help who are near by.
+        Click the help button and people can help who are near by.
+        Click the help button and people can help who are near by.
+    </string>
+
+    <string name="email_hint"><font size="12">Email</font></string>
+    <string name="password_hint"><font size="12">Password</font></string>
+    <string name="fullName_hint"><font size="12">Full Name</font></string>
+    <string name="mobile_number_hint"><font size="12">Mobile Number</font></string>
+    <string name="search_apartment_hint"><font size="12">Search to add complex...</font></string>
+
+    <string name="new_to_app_register_here">New user? <u><font color="#407BFF"> <b>Register Here</b></font></u></string>
+
+    <string name="alredy_registered">Already Registered? <u><font color="#407BFF"> <b>Login Here</b></font></u></string>
+    <string name="register">Register</string>
+    <string name="search">Search</string>
+    <string name="add_your_details">Add your details</string>
+    <string name="dummy_details">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard.</string>
+
+    <string name="block_hint"><font size="12">Block</font></string>
+    <string name="unit_hint"><font size="12">Enter Unit</font></string>
+    <string name="member_type_hint"><font size="12">Member Type</font></string>
+    <string name="residential_status_hint"><font size="12">Residential Status</font></string>
+    <string name="submit">Submit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dummy_data">101,Om Ambica Darshan CHS, Near Hotel Monalisa Complex Road, Katrap Badlapur, Badlapur - 370001</string>
+    <string name="add_member">Add Member</string>
+    <string name="add_apartment">Add Apartment</string>
+    <string name="dummy_address_text">101,Om Ambica Darshan CHS, Near Hotel Monalisa Complex Road, Katrap Badlapur, Badlapur - 370001</string>
+
+    <string name="picker_take_photo">Take photo</string>
+    <string name="picker_record_video">Record video</string>
+    <string name="picker_switch_media">Switch media</string>
+    <string name="picker_no_items">No items.</string>
+    <string name="picker_done_capital">DONE</string>
+
+
+    <!--google map-->
+    <string name="places_api_key" translatable="false">AIzaSyC06xw_9rLsszZVsPuC6CK-PtSo6Z4Pbhk</string>
+    <string name="service_not_available">Service not available ..check network connection</string>
+    <string name="no_address_found">No address found</string>
+    <string name="address_found">address found</string>
+    <string name="not_support_area">This area is not supported yet</string>
+    <string name="confirm_location">Confirm Location</string>
+    <string name="search_place">Search a place</string>
+    <string name="confirm_pickup">Confirm pickup</string>
+    <string name="confirm_dest">Confirm destination</string>
+    <string name="failed_select_location">failed to select location please try again</string>
+    <string name="profile">Profile</string>
+
+    <plurals name="picker_video_duration_min">
+        <item quantity="one">This video\'s duration smaller than %d second.</item>
+        <item quantity="other">This video\'s duration smaller than %d seconds.</item>
+    </plurals>
+    <plurals name="picker_video_duration_max">
+        <item quantity="one">This video\'s duration larger than %d second.</item>
+        <item quantity="other">This video\'s duration larger than %d seconds.</item>
+    </plurals>
+    <plurals name="picker_video_duration_warning">
+        <item quantity="one">Video\'s duration limit is  %d second.</item>
+        <item quantity="other">Video\'s duration limit is  %d seconds.</item>
+    </plurals>
+
+    <string-array name="Category">
+        <item>FootBall</item>
+        <item>BasketBall</item>
+        <item>BaseBall</item>
+    </string-array>
+
+    <string-array name="AnnouncementCategory">
+        <item>General</item>
+        <item>Warning</item>
+    </string-array>
+
+    <string-array name="GatePassType">
+        <item>Guest</item>
+        <item>Courier Boy</item>
+        <item>Delivery Boy</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="VehiclerType">
+        <item>2 Wheeler</item>
+        <item>4 Wheeler</item>
+    </string-array>
+
+    <string-array name="ComplainType">
+        <item>Select Complain Type</item>
+        <item>Maintenance</item>
+        <item>Parking</item>
+        <item>Water Leakage</item>
+        <item>Elevator</item>
+        <item>Electricity</item>
+        <item>Apartment Dispute</item>
+        <item>Gas Leak</item>
+        <item>Noise</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>
